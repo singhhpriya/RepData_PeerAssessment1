@@ -91,7 +91,7 @@ Show any code that is needed to
 
 ```r
 ## Read activity csv file
-data.activity <- read.csv(file="O:/Study/CourseraDataScientist/5. Reproducible Research/repdata_data_activity_2/activity.csv")
+data.activity <- read.csv(file="O:/Study/CourseraDataScientist/5. Reproducible Research/week 2/Ch5W2_Quiz/repdata_data_activity_2/activity.csv")
 
 ## Convert to date class
 library(lubridate)
